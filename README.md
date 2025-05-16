@@ -7,6 +7,6 @@ just choose which one you favorite and use it. But I highly recomend to unfold t
 Because it's a pure one without my name.
 
 Tips: You should download TIA first as the whole project is made of it.
-Simulate the code and HMI simultaneously. After that you will come cross what;s going to happen with this code.
+Simulate the code and HMI simultaneously. After that you will come cross what's going to happen with this code.
 
 
