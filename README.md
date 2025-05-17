@@ -1,4 +1,4 @@
-# PLCTraffic-Light-Control-of-my-course-project Simens PLC 1200-V7 TIA
+# PLC Traffic Light Control-of-my-course-project Simens PLC 1200-V7 TIA Basic
 This is not a huge project, just my course design. I don't want to delete it directly. Thus I choose to share and upload it to GitHub.
 Without much expectaion of being discovering but if anyone can fine this. That will be a fortune destiny.
 
